@@ -5,7 +5,7 @@
 
 .branding {
     margin: 0;
-    background-image: url('/images/1920x1300\ 1.png');
+    background-image: url('./images/1920x1300\ 1.png');
     background-size: contain;
     background-repeat: no-repeat;
     height: 1300px;
@@ -14,7 +14,7 @@
 }
 
 .copyright {
-    background-image: url('/images/logo/h&m.png');
+    background-image: url('./images/logo/h&m.png');
     background-size: contain;
     background-repeat: no-repeat;
     position: absolute;
@@ -35,18 +35,18 @@
 }
 
 .logo-left {
-    background-image: url('/images/logo/LOGO_1920_1640_1480 left.png');
+    background-image: url('./images/logo/LOGO_1920_1640_1480 left.png');
     left: 209px;
 }
 
 .logo-right {
-    background-image: url('/images/logo/LOGO_1920_1640_1480 right.png');
+    background-image: url('./images/logo/LOGO_1920_1640_1480 right.png');
     right: 209px;
 }
 
 @media (max-width: 1641px) {
     .branding {
-        background-image: url('/images/1640x1300_\(1920х1080\)\ 1.png');
+        background-image: url('./images/1640x1300_\(1920х1080\)\ 1.png');
     }
 
     .copyright {
@@ -68,7 +68,7 @@
 
 @media (max-width: 1481px) {
     .branding {
-        background-image: url('/images/1480x1300_\(1640х1300\)\ 1.png');
+        background-image: url('./images/1480x1300_\(1640х1300\)\ 1.png');
     }
 
     .copyright {
@@ -90,7 +90,7 @@
 
 @media (max-width: 1367px) {
     .branding {
-        background-image: url('/images/1366x1300_\(1480х1300\)\ 1.png');
+        background-image: url('./images/1366x1300_\(1480х1300\)\ 1.png');
     }
 
     .copyright {
@@ -114,7 +114,7 @@
 
 @media (max-width: 1250px) {
     .branding {
-        background-image: url('/images/990х1300_MOB_\(1280x1300\)\ 1.png');
+        background-image: url('./images/990х1300_MOB_\(1280x1300\)\ 1.png');
     }
 
     .copyright {
